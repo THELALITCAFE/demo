@@ -1686,7 +1686,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 .footer-widget .footer-social{}
 .footer-widget .footer-social li{ display: inline-block; }
 .footer-widget .footer-social li a{
-    background-color: #ff8e28;
+    background-color: #ffffff;
     font-size: 15px;
     color: #fff;
     width: 35px;
@@ -1700,7 +1700,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     border-radius: 1px;
 }
 .footer-widget .footer-social li a:hover{
-    background-color: #0e1318;
+    background-color: #ffffff;
 }
 .footer-widget h3{
     font-family: "Rubik",sans-serif;
