@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://www.thelalitcafe.com/sitemap.xml
