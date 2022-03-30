@@ -1,4 +1,4 @@
 ErrorDocument  404 /404.html
-
+RewriteEngine On
 RewriteCond %{HTTP_HOST} !^www.thelalitcafe.com$ [NC]
 RewriteRule ^(.*)$ https://www.thelalitcafe.com/$1 [L,R=301]
